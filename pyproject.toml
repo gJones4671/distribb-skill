@@ -1,0 +1,5 @@
+[project]
+name = "distribb-skill"
+version = "0.1.0"
+description = "Distribb CLI, Claude, Codex, Hermes, OpenClaw skill for AI-powered SEO. Write content with your own AI, publish through Distribb's backlink network."
+requires-python = ">=3.10"
